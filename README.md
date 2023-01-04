@@ -1,2 +1,2 @@
-## Darlene
+## Nazuna
 Dicord bot!
